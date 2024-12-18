@@ -24,12 +24,26 @@ I enjoy solving real-world problems by creating impactful software solutions, an
   - A secure web application with Two-Factor Authentication to enhance user security.
 
 ## 🗊 GitHub Stats
-![Maor's GitHub stats](https://github-readme-stats.vercel.app/api?username=maor-hadad&show_icons=true&theme=radical)
+![Maor's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaorHadadLD&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maor-hadad&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaorHadadLD&layout=compact&theme=radical)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=maor-hadad&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MaorHadadLD&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaorHadadLD&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Maor's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaorHadadLD&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=MaorHadadLD&color=blue)
+
+![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ## 📬 Contact Me
 - **Email:** maorhadad94@gmail.com  
 - **LinkedIn:** [Maor Hadad](https://www.linkedin.com/in/maor-hadad-software-engineer/)  
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maor-hadad-software-engineer/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MaorHadadLD)  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F700FF&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Maor+Hadad;Software+Engineer+%7C+Full+Stack+Developer)](https://git.io/typing-svg)
