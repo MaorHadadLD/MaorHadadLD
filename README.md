@@ -32,7 +32,7 @@ I enjoy solving real-world problems by creating impactful software solutions, an
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MaorHadadLD&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Contributions](https://github-contributions.vercel.app/api/v1/username=MaorHadadLD)](https://github.com/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaorHadadLD&layout=compact&theme=radical)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=MaorHadadLD&color=blue)
 
