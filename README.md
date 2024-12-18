@@ -32,6 +32,8 @@ I enjoy solving real-world problems by creating impactful software solutions, an
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MaorHadadLD&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Contribution Snake](https://github.com/MaorHadadLD/MaorHadadLD/blob/output/github-contribution-grid-snake.svg)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=MaorHadadLD&color=blue)
 
 ![Coding](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
