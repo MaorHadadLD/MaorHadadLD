@@ -1,4 +1,4 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 # Hi there 👋, I'm Maor Hadad
 
 🚀 **Passionate Full-Stack Developer** | React, React Native & Node.js Specialist
