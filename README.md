@@ -53,5 +53,5 @@ I enjoy solving real-world problems by creating impactful software solutions, an
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MaorHadadLD)  
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F700FF&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Maor+Hadad;Software+Engineer+%7C+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F700FF&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Maor+Hadad;Software+Engineer+%7C+Full+Stack+Developer)](https://github.com/MaorHadadLD)
 ---
